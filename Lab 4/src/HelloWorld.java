@@ -3,7 +3,6 @@ public class HelloWorld {
 	
 	public static void main(String[] args)
 	{
-		//Editing number 1
 		//Editing number 2
 		//Editing number 3
 
